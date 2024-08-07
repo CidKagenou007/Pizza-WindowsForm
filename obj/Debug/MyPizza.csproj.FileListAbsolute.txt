@@ -1,0 +1,11 @@
+D:\vscode\Purole\MyPizza\bin\Debug\MyPizza.exe.config
+D:\vscode\Purole\MyPizza\bin\Debug\MyPizza.exe
+D:\vscode\Purole\MyPizza\bin\Debug\MyPizza.pdb
+D:\vscode\Purole\MyPizza\obj\Debug\MyPizza.csproj.AssemblyReference.cache
+D:\vscode\Purole\MyPizza\obj\Debug\MyPizza.FmPizzaOrder.resources
+D:\vscode\Purole\MyPizza\obj\Debug\MyPizza.Properties.Resources.resources
+D:\vscode\Purole\MyPizza\obj\Debug\MyPizza.csproj.GenerateResource.cache
+D:\vscode\Purole\MyPizza\obj\Debug\MyPizza.csproj.CoreCompileInputs.cache
+D:\vscode\Purole\MyPizza\obj\Debug\MyPizza.exe
+D:\vscode\Purole\MyPizza\obj\Debug\MyPizza.pdb
+D:\vscode\Purole\MyPizza\obj\Debug\MyPizza.FmMakePizza.resources
